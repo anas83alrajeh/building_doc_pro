@@ -1,3 +1,3 @@
-# README for مشروع البناء
+# Streamlit - توثيق مشروع بناء
 
-شرح تشغيل المشروع وربطه بالـ Google Drive وStreamlit Cloud.
+## التشغيل محلياً
